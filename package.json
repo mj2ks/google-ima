@@ -1,6 +1,8 @@
 {
     "name": "google-ima-types",
     "author": "Niklas Korz <nk@alugha.com>",
-    "types": "google.d.ts",
+    "main": "",
+    "types": "google-ima.d.ts",
+    "typeScriptVersion": "4.4",
     "license": "MIT"
 }
