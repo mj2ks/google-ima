@@ -1,6 +1,6 @@
 {
     "name": "mj2ks/google-ima-types",
-    "author": "Niklas Korz <nk@alugha.com>"
+    "author": "Niklas Korz <nk@alugha.com>",
     "types": "google.d.ts",
     "license": "MIT"
 }
